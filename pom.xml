@@ -42,6 +42,10 @@
       <artifactId>micronaut-validation</artifactId>
       <scope>compile</scope>
     </dependency>
+    <!-- <dependency>
+      <groupId>io.micronaut.configuration</groupId>
+      <artifactId>micronaut-hibernate-validator</artifactId>
+    </dependency> -->
     <dependency>
       <groupId>io.micronaut</groupId>
       <artifactId>micronaut-runtime</artifactId>
