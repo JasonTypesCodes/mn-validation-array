@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.validation.array
+---
+testFramework: junit
+sourceLanguage: java
